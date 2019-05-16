@@ -81,7 +81,6 @@ function reloadPage() {
         echo "<code><font color='green'>Link: <strong><a target='blank' href='http://skrypt.sh/".  basename( $_FILES['uploaded_file']['name'])."'> skrypt.sh/".  basename( $_FILES['uploaded_file']['name']). "</a></strong></font></code> ";
      } else {
        echo "<font color='red'>Błąd: nie wybrałeś pliku lub brak uprawnień.</font>";
-       echo $_FILES['uploaded_file']['tmp_name'];
        echo $end;
      }
 
