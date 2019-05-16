@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 
+<!--
 # Copyright (c) 2019 - Dawid Deręgowski - MIT
 #
 # Little-ultra-simple-php-uploader
 #
 # VERSION 1.0.0
+-->
 
 <html>
 <head>
