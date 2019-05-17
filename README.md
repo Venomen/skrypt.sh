@@ -1,5 +1,5 @@
 # skrypt.sh
-Little-ultra-simple-php-uploader
+Little-ultra-simple-php-uploader.
 
 ## INSTRUCTIONS
 1. Your <b>upload dir</b> is above "/public", so set <b>DocummentRoot</b> & <b>Directory</b> (for ex. in Apache2 Vhost) to "/public/app/index.php"
